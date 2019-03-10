@@ -15,3 +15,5 @@ Another way is create a .sh with
 mono ./HelloRaspberry.exe
 
 Don't forget to chmod + x the .sh
+
+Preview: https://twitter.com/TonhaoSemAcento/status/1104564563725467649
